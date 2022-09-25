@@ -1,0 +1,11 @@
+.cart{
+    position: sticky;
+    top: 0;
+}
+.text-order{
+    text-align: center;
+    font-size: 25px;
+}
+.cart-info{
+    padding: 0 20px;
+}
